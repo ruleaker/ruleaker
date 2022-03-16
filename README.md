@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
  - Just another scriptkid.
- - Building a `BAS system`.
+ - Building `a BAS system`.
  - Working hard trying to create~~(SKID)~~ a nice&ez2use pentest-framework like `metasploit`.
  - Blog: https://urlzs.com/Aqnoj
 
