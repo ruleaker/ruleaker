@@ -1,10 +1,10 @@
 <h1 align="center">This is rULe4Ker4pwn</h1>
 <h3 align="center"></h3>
 
-Just another scriptkid.
-Building a `BAS system`.
-Working hard trying to create a nice&ez2use pentest-frameWork like `metasploit`.
-Blog: https://urlzs.com/Aqnoj
+ - Just another scriptkid.
+ - Building a `BAS system`.
+ - Working hard trying to create a nice&ez2use pentest-frameWork like `metasploit`.
+ - Blog: https://urlzs.com/Aqnoj
 
 <table>
     <tr>
