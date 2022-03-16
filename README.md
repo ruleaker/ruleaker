@@ -4,7 +4,7 @@
  - Just another scriptkid.
  - Building `a BAS system`.
  - Working hard trying to create ~~(SKID)~~ a nice&ez2use pentest-framework like `metasploit`.
- - Blog: https://urlzs.com/Aqnoj
+ - Personal Blog: https://urlzs.com/Aqnoj
 
 <table>
     <tr>
