@@ -16,5 +16,5 @@
         </td>
     </tr>
 </table>
-
+<h2>Visitors statistics</h2>
  <img src="https://profile-counter.glitch.me/Anonymous-ghost/count.svg" alt="Anonymous-ghost" >
