@@ -3,7 +3,7 @@
 
  - Just another scriptkid.
  - Building a BAS system.
- - Working hard trying to create ~~(SKID)~~ a nice&ez2use pentest-framework.
+ - Trying to create ~~(SKID)~~ a sharp&ez2use pentest-framework.
  - Personal Blog: https://urlzs.com/Aqnoj
 
 <table>
