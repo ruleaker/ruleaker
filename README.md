@@ -17,4 +17,4 @@
     </tr>
 </table>
 <h2>Visitors statistics</h2>
- <img src="https://profile-counter.glitch.me/Evan You/count.svg" alt="Evan You" >
+ <img src="https://profile-counter.glitch.me/ruleaker/count.svg" alt="ruleaker" >
