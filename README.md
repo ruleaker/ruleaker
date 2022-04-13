@@ -1,10 +1,10 @@
 <h1 align="center">rULe4Ker4pwn's Github</h1>
 <h3 align="center"></h3>
 
- Just another scriptkid.
- Building a BAS system.
- Working hard trying to create ~~(SKID)~~ a nice&ez2use pentest-framework.
- Personal Blog: https://urlzs.com/Aqnoj
+ - Just another scriptkid.
+ - Building a BAS system.
+ - Working hard trying to create ~~(SKID)~~ a nice&ez2use pentest-framework.
+ - Personal Blog: https://urlzs.com/Aqnoj
 
 <table>
     <tr>
