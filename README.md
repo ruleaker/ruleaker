@@ -1,7 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c1ce6,100:c724b1&height
-        +=220&section=header&text=rULe4Ker4pwn&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=red%20team%20%C2%B
-        +7%20perps%20%C2%B7%20macro&descAlignY=58&descSize=16" width="100%" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c1ce6,100:c724b1&height=220&section=header&text=rULe4Ker4pwn&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=red%20team%20%C2%B7%20perps%20%C2%B7%20macro&descAlignY=58&descSize=16" width="100%" alt=""/>
 </div>
 
 ### About
