@@ -90,5 +90,4 @@ Offensive security researcher and on-chain operator. Splitting time between red 
 
 ### Reach
 
-- blog · [cnblogs.com/ruleaker](https://www.cnblogs.com/ruleaker/)
 - mail · `ruleaker [at] gmail.com`
