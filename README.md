@@ -4,7 +4,11 @@
 
 ### About
 
-Offensive security operator focused on **web exploitation** and **EDR evasion**. Trades **macro-liquidity-driven perpetuals** on the side — reverse-engineers central-bank balance sheets the same way others reverse-engineer binaries. Based in Irvine, CA · UCI.
+Pentesting teaches two things: patience and stillness. You watch a network for hours, refuse the obvious moves, and wait for the one foothold that unlocks everything else.
+
+I bring the same posture into markets — hunting liquidity, reading orderflow, sizing into asymmetry, bearing the risk that follows.
+
+Respect the system. Fear the variance. Take the bet.
 
 ---
 
@@ -101,7 +105,9 @@ Camus · Taleb · Howard Marks · Soros · Lyn Alden · Charlie Munger · 段永
 
 ### Reach
 
+- zhihu · [zhihu.com/people/ruleaker](https://www.zhihu.com/people/ruleaker)
 - mail · `ruleaker [at] gmail.com`
+- based · Irvine, CA · UCI
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ruleaker&color=1f6feb&style=flat-square&label=visitors" alt=""/>
